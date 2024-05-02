@@ -1,4 +1,4 @@
-# TriangleCalc
+# Triangle Calculator
 <div align="center">
 
   <h2 align="center">OOP Using Python</h2>
